@@ -11,7 +11,10 @@
         "laravel/framework": "^8.75",
         "laravel/sanctum": "^2.11",
         "laravel/tinker": "^2.5",
-        "monolog/monolog": "^2.4"
+        "monolog/monolog": "^2.4",
+        "nesbot/carbon": "^2.59",
+        "illuminate/support": "^8.11",
+        "illuminate/http": "^8.11"
     },
     "require-dev": {
         "facade/ignition": "^2.5",
